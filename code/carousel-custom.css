@@ -1,0 +1,8 @@
+.carousel-custom .carousel .slide {
+    background: lightgray;
+  }
+  .carousel-custom .carousel .control-prev.control-arrow:before,
+  .carousel-custom .carousel .control-next.control-arrow:before {
+    border-color: black;
+  }
+  
