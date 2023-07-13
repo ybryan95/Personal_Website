@@ -1,4 +1,4 @@
-# Personal Website README
+# Personal Website on AWS EC2
 
 [![Website](https://img.shields.io/badge/Website-54.160.115.159:3000-blue)](http://54.160.115.159:3000/)
 [![AWS](https://img.shields.io/badge/Deployment-AWS-orange)](https://aws.amazon.com/)
